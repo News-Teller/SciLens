@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh -l smeros lsirpeople.epfl.ch 'cd /icsil1/lsirpeople/smeros;git pull'
